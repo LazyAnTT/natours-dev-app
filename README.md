@@ -1,4 +1,4 @@
-<!-- <img src="https://github.com/LazyAnTT/natour-dev-app/blob/master/public/intro.JPG" style="width:700px;" /> -->
+<img src="https://github.com/LazyAnTT/natours-dev-app/blob/main/public/section-tours.png" style="width:700px;" />
 
 ## DEMO
 https://natours-dev-app.netlify.app/
