@@ -4,12 +4,11 @@
 This project was developed with out 3rd party component libraries. 
 
 -Component driven design
+
 -BEM methodoligy
--Responsive design :
-  Fluid layouts: This project for the sport was create with custom Float grid system. 
-  Responsive units em, rem, %;
-  Flexibale images;
-  Media queries;
+
+-Responsive design :this project for the sport was developed with custom Float grid system. 
+
  
 
 ## launch
