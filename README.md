@@ -1,6 +1,8 @@
+
+## Sneak peek
 <img src="https://github.com/LazyAnTT/natours-dev-app/blob/main/public/section-tours.png" style="width:700px;" />
 
-## DEMO
+## Demo
 https://natours-dev-app.netlify.app/
 
 ## introduction to project
