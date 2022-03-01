@@ -1,5 +1,8 @@
 <!-- <img src="https://github.com/LazyAnTT/natour-dev-app/blob/master/public/intro.JPG" style="width:700px;" /> -->
 
+## DEMO
+https://natours-dev-app.netlify.app/
+
 ## introduction to project
 This project was developed with out 3rd party component libraries. 
 
