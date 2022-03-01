@@ -12,11 +12,6 @@ This project was developed with out 3rd party component libraries.
 
 -Responsive design :this project for the sport was developed with custom Float grid system. 
 
- 
-
-## launch
-https://airbnb-second.web.app/
-
 
 ## development
 
